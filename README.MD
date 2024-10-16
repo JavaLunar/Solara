@@ -25,8 +25,12 @@ It's crucial to understand that using Solara, like any Roblox exploit, violates 
 
 ### GUIDE
 1: Disable any antivirus to allow DLL injection
+
 2: Open roblox
+
 3: Open solara and inject into the game
+
 4: Join a game
+
 5: Execute any script!
 
